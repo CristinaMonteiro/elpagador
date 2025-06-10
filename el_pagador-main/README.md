@@ -23,8 +23,8 @@ Inicia o servidor:
 
 ## 👨‍💻 Equipa de Desenvolvimento
 
-Adriana Vinhas – M14940
-Cristina Monteiro – M14789
-David Gomes – M14783
-Nuno Silva – M14213
-Pedro Xavier Silva – M12950
+Adriana Vinhas – https://github.com/adrianavinhas
+Cristina Monteiro – (Me)
+David Gomes – https://github.com/DavidGomes12345
+Nuno Silva – 
+Pedro Xavier Silva – 
